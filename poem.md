@@ -1,10 +1,10 @@
-Ulmarra
+ # Ulmarra
 
-    By Henry Kendall
+    **By Henry Kendall**
 
 
 
-    Alone alone!
+    _Alone alone!_
     With a heart like a stone,
     She maketh her moan
     At the feet of the trees,
@@ -15,7 +15,7 @@ Ulmarra
     Do you hear her, Ulmarra?
     Oh, where are the tracks of her lover?
 
-    Go by go by!
+    _Go by go by!_
     They have told her a lie,
     Who said he was nigh,
     In the white-cedar glen
@@ -26,7 +26,7 @@ Ulmarra
     Do you hear her, Ulmarra?
     Oh! where is her warrior sleeping?
 
-    A dream! a dream!
+    _A dream! a dream!_
     That they saw a bright gleam
     Through the dusk boughs stream,
     Where wild bees dwell,
@@ -37,7 +37,7 @@ Ulmarra
     Do you hear her, Ulmarra?
     Oh! where doth her chieftain lie shaded?
 
-    Bewail! bewail!
+    _Bewail! bewail!_
     Who whispered a tale,
     That they heard on the gale,
     Through the dark and the cold,
@@ -48,4 +48,4 @@ Ulmarra
     Do you hear her, Ulmarra?
     Oh! her heart it is wasted with crying!
     
-    http://www.public-domain-poetry.com/henry-kendall/ulmarra-8585 
+    [Public Domain Poetry] (http://www.public-domain-poetry.com/henry-kendall/ulmarra-8585) 
